@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Packsack</string>
+    <string name="inputname">请输入用户名</string>
+    <string name="username">用户名：</string>
+    <string name="userpasswd">密"\t\t"码：</string>
+    <string name="inputpasswd">请输入密码</string>
+    <string name="login">登陆</string>
+    <string name="register">注册</string>
+</resources>
